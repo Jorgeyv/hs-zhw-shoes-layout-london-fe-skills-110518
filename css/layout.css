@@ -37,7 +37,7 @@
 .footer {
   width: 33.3%;
   float: left;
-  
+  padding: 10px;
 }
 .clearfix:after {
   content: ".";
