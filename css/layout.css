@@ -30,6 +30,11 @@
   margin: 0px 20px 0px 0px;
 }
 
+.last {
+  width: 31.7%;
+  margin: 0px 20px 0px 0px;
+}
+
 
 .clearfix:after {
   content: ".";
