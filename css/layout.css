@@ -34,7 +34,9 @@
   width: 31.7%;
 }
 
-
+.footer {
+  width: 33.3%;
+}
 .clearfix:after {
   content: ".";
   display: block;
